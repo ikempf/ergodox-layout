@@ -1,2 +1,3 @@
-https://configure.ergodox-ez.com/layouts/NgNd/latest/0
+https://configure.ergodox-ez.com/layouts/3nG7/latest/0
+
 
